@@ -1,0 +1,13 @@
+com\reader\app\service\UserServiceImpl.class
+com\reader\app\WebApplication.class
+com\reader\app\web\UserController.class
+com\reader\app\validator\UserValidator.class
+com\reader\app\service\UserDetailsServiceImpl.class
+com\reader\app\service\SecurityService.class
+com\reader\app\model\User.class
+com\reader\app\repository\UserRepository.class
+com\reader\app\WebSecurityConfig.class
+com\reader\app\service\UserService.class
+com\reader\app\repository\RoleRepository.class
+com\reader\app\model\Role.class
+com\reader\app\service\SecurityServiceImpl.class
